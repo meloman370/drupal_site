@@ -33,8 +33,6 @@
   }
 
 
-
-
 /**
  * Generate the dialog markup
  */
