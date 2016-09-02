@@ -45,6 +45,12 @@
 
 
 
+
+
+
+
+
+
 /**
  * Generate the dialog markup
  */
