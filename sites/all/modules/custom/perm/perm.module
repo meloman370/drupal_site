@@ -1,0 +1,42 @@
+<?php
+
+function perm_menu() {
+  $items = array();
+  $items['current_posts'] = array(
+    'title' => 'Current posts',
+    'page callback' => 'create_job',
+    'access arguments' => array('access current_posts content'),
+  );
+  return $items;
+}
+
+function perm_permission() {
+  return array(
+    'access current_posts content' => array(
+      'title' => t('Access content for the Current posts module'),
+    )
+  );
+}
+
+
+function aaa(){}
+function create_job() {
+  return t('Create a job');
+}
+
+/**
+ * Implements hook_form_alter().
+ */
+function perm_form_alter(&$form, &$form_state, $form_id) {
+  $form['name']['#ajax'] = array(
+    'callback' => 'perm_validate_name',
+    'event' => 'keyup',
+    'wrapper' => 'image-style-perm',
+  );
+  $form['name']['#suffix'] = '<div id="image-style-perm">Default message.</div>';
+  dpm($form);
+}
+
+function perm_validate_name() {
+  return 'key pressed';
+}
