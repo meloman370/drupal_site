@@ -1,7 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4f4720-5923-4e2a-b409-54162028a73b" name="Default" comment="" />
+    <list default="true" id="6a4f4720-5923-4e2a-b409-54162028a73b" name="Default" comment="this is my first commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/add.png" afterPath="$PROJECT_DIR$/themes/bartik/images/add.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/arrow-down.png" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/arrow-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/arrow-down.png" afterPath="$PROJECT_DIR$/sites/all/modules/token/arrow-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/arrow-right.png" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/arrow-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/arrow-right.png" afterPath="$PROJECT_DIR$/sites/all/modules/token/arrow-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/background-patterns.jpg" afterPath="$PROJECT_DIR$/themes/bartik/images/background-patterns.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/background-patterns.png" afterPath="$PROJECT_DIR$/themes/bartik/images/background-patterns.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/color/base.png" afterPath="$PROJECT_DIR$/themes/bartik/color/base.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/buttons.png" afterPath="$PROJECT_DIR$/themes/bartik/images/buttons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/comment-arrow-rtl.gif" afterPath="$PROJECT_DIR$/themes/bartik/images/comment-arrow-rtl.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/comment-arrow.gif" afterPath="$PROJECT_DIR$/themes/bartik/images/comment-arrow.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/logo.png" afterPath="$PROJECT_DIR$/themes/bartik/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/color/preview.png" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/screenshot.png" afterPath="$PROJECT_DIR$/themes/bartik/screenshot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/search-button.png" afterPath="$PROJECT_DIR$/themes/bartik/images/search-button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/images/tabs-border.png" afterPath="$PROJECT_DIR$/themes/bartik/images/tabs-border.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/KNOWN_ISSUES.txt" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/KNOWN_ISSUES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/purl/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/token/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/purl/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/token/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/bartik.info" afterPath="$PROJECT_DIR$/themes/bartik/bartik.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/color/color.inc" afterPath="$PROJECT_DIR$/themes/bartik/color/color.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/colors.css" afterPath="$PROJECT_DIR$/themes/bartik/css/colors.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/comment-wrapper.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/comment-wrapper.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/comment.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/comment.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/drupal_site.iml" afterPath="$PROJECT_DIR$/.idea/drupal_site.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/ie-rtl.css" afterPath="$PROJECT_DIR$/themes/bartik/css/ie-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/ie.css" afterPath="$PROJECT_DIR$/themes/bartik/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/ie6.css" afterPath="$PROJECT_DIR$/themes/bartik/css/ie6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/plugins/access/is_device_group.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/plugins/access/is_device_group.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.css" afterPath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.js" afterPath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/layout-rtl.css" afterPath="$PROJECT_DIR$/themes/bartik/css/layout-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/layout.css" afterPath="$PROJECT_DIR$/themes/bartik/css/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/maintenance-page.css" afterPath="$PROJECT_DIR$/themes/bartik/css/maintenance-page.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/maintenance-page.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/maintenance-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.admin.css" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.admin.js" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.features.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.features.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.feeds.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.feeds.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.i18n.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.i18n.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.install" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.migrate.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.migrate.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.test" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.vertical-tabs.js" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag.vertical-tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/metatag_app_links.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/metatag_app_links.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/metatag_app_links.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/metatag_app_links.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/metatag_app_links.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_app_links/metatag_app_links.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.context.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.context.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.install" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.test" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_context/metatag_context.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.install" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc/metatag_dc.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/metatag_dc_advanced.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/metatag_dc_advanced.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/metatag_dc_advanced.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/metatag_dc_advanced.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/metatag_dc_advanced.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_dc_advanced/metatag_dc_advanced.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_devel/metatag_devel.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_devel/metatag_devel.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_devel/metatag_devel.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_devel/metatag_devel.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.install" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_facebook/metatag_facebook.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_favicons/metatag_favicons.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_favicons/metatag_favicons.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_favicons/metatag_favicons.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_favicons/metatag_favicons.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_favicons/metatag_favicons.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_favicons/metatag_favicons.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_google_plus/metatag_google_plus.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.page_title.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_importer/metatag_importer.page_title.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_mobile/metatag_mobile.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_mobile/metatag_mobile.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_mobile/metatag_mobile.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_mobile/metatag_mobile.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_mobile/metatag_mobile.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_mobile/metatag_mobile.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.install" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph/metatag_opengraph.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph_products/metatag_opengraph_products.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph_products/metatag_opengraph_products.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph_products/metatag_opengraph_products.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph_products/metatag_opengraph_products.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph_products/metatag_opengraph_products.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_opengraph_products/metatag_opengraph_products.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/metatag_panels.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/metatag_panels.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/metatag_panels.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/metatag_panels.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/metatag_panels.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_panels/metatag_panels.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/tests/metatag_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/tests/metatag_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/tests/metatag_test.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/tests/metatag_test.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/tests/metatag_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/tests/metatag_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/metatag_verification.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/metatag_verification.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/metatag_verification.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/metatag_verification.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/metatag_verification.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_verification/metatag_verification.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.info" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.metatag.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.metatag.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.module" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views_plugin_display_extender_metatags.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/metatag_views/metatag_views_plugin_display_extender_metatags.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/mobile.css" afterPath="$PROJECT_DIR$/themes/bartik/css/mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.default_mobile_tools_device_group.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.default_mobile_tools_device_group.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.info" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.js" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.test" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.info" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.install" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.js" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.module" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.test" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_browscap/mobile_tools_browscap.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.info" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.install" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.module" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_cache/mobile_tools_cache.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.condition_device_group.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.condition_device_group.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.info" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.module" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.test" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_context/mobile_tools_context.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.context.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.context.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.info" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.install" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.module" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.test" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools_httpheaders/mobile_tools_httpheaders.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/mobile_tools/plugins/mobile_tools_spaces.inc" afterPath="$PROJECT_DIR$/sites/all/modules/mobile_tools/plugins/mobile_tools_spaces.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/node.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/node.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/metatag/plugins/content_types/node_form_metatags.inc" afterPath="$PROJECT_DIR$/sites/all/modules/metatag/plugins/content_types/node_form_metatags.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/templates/page.tpl.php" afterPath="$PROJECT_DIR$/themes/bartik/templates/page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/color/preview.css" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/color/preview.html" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/color/preview.js" afterPath="$PROJECT_DIR$/themes/bartik/color/preview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/print.css" afterPath="$PROJECT_DIR$/themes/bartik/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/purl.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/purl.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/purl.admin.js" afterPath="$PROJECT_DIR$/sites/all/modules/purl/purl.admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/purl.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/purl/purl.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/purl.info" afterPath="$PROJECT_DIR$/sites/all/modules/purl/purl.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/purl.install" afterPath="$PROJECT_DIR$/sites/all/modules/purl/purl.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/purl.module" afterPath="$PROJECT_DIR$/sites/all/modules/purl/purl.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/tests/purl.test" afterPath="$PROJECT_DIR$/sites/all/modules/purl/tests/purl.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_domain.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_domain.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_extension.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_extension.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_pair.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_pair.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_path.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_path.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_processor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_processor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_querystring.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_querystring.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_subdomain.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_subdomain.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/tests/purl_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/purl/tests/purl_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/tests/purl_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/purl/tests/purl_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_useragent.inc" afterPath="$PROJECT_DIR$/sites/all/modules/purl/includes/purl_useragent.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/style-rtl.css" afterPath="$PROJECT_DIR$/themes/bartik/css/style-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/css/style.css" afterPath="$PROJECT_DIR$/themes/bartik/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/template.php" afterPath="$PROJECT_DIR$/themes/bartik/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.css" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.info" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.install" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.js" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.module" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.pages.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.pages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.test" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="drupal_site.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -16,17 +221,125 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DrupalConfiguration" enabled="true" version="7">
+    <drupalPath />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="drupal_site" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
+      <file leaf-file-name="perm.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21945702">
-              <caret line="633" column="1" selection-start-line="633" selection-start-column="1" selection-end-line="633" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="perm.module" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.0">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mobile_tools.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29850745">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/menu.inc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="553" column="14" selection-start-line="553" selection-start-column="14" selection-end-line="553" selection-end-column="14" />
+              <folding>
+                <marker date="1445456860000" expanded="true" signature="15799:15871" placeholder="SELECT * FRO..." />
+                <marker date="1445456860000" expanded="true" signature="110615:110660" placeholder="SELECT * FRO..." />
+                <marker date="1445456860000" expanded="true" signature="110741:110796" placeholder="SELECT * FRO..." />
+                <marker date="1445456860000" expanded="true" signature="111415:111463" placeholder="SELECT mlid ..." />
+                <marker date="1445456860000" expanded="true" signature="114129:114174" placeholder="SELECT * FRO..." />
+                <marker date="1445456860000" expanded="true" signature="120306:120351" placeholder="SELECT * FRO..." />
+                <marker date="1445456860000" expanded="true" signature="122330:122403" placeholder="SELECT menu_..." />
+                <marker date="1445456860000" expanded="true" signature="124511:124606" placeholder="SELECT * FRO..." />
+                <marker date="1445456860000" expanded="true" signature="132670:132759" placeholder="SELECT menu_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="statistics.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/statistics/statistics.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/bootstrap.inc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2196" column="9" selection-start-line="2196" selection-start-column="9" selection-end-line="2196" selection-end-column="9" />
+              <folding>
+                <marker date="1445456860000" expanded="true" signature="27965:28030" placeholder="SELECT filen..." />
+                <marker date="1445456860000" expanded="true" signature="30635:30669" placeholder="SELECT name,..." />
+                <marker date="1445456860000" expanded="true" signature="65232:65274" placeholder="SELECT 1 FRO..." />
+                <marker date="1445456860000" expanded="true" signature="94671:94726" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="standard_7.php" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_7.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="322" column="12" selection-start-line="322" selection-start-column="12" selection-end-line="322" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/node.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_bartik.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/custom_bartik.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -34,12 +347,22 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="meloman" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/themes/bartik/css/layout.css" />
         <option value="$PROJECT_DIR$/themes/bartik/css/style.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module" />
       </list>
     </option>
   </component>
@@ -50,14 +373,17 @@
   <component name="NamedScopeManager">
     <order />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="63" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1857" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -80,6 +406,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,60 +436,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="sites" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,7 +476,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,55 +498,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="custom_bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupal_site" />
+              <option name="myItemId" value="custom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="all" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="custom_bartik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="perm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="php.drupal.base.configurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a4f4720-5923-4e2a-b409-54162028a73b" name="Default" comment="" />
@@ -282,18 +562,29 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
+    <frame x="63" y="24" width="1857" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18016529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2892562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11821086" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -301,36 +592,39 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is my first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/bartik/css/style.css">
+    <entry file="file://$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="179" column="22" selection-start-line="187" selection-start-column="28" selection-end-line="187" selection-end-column="29" />
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bartik/css/layout-rtl.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/bartik/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/node.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -338,11 +632,252 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/custom_bartik.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="650" column="20" selection-start-line="650" selection-start-column="20" selection-end-line="650" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/custom_bartik.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="650" column="20" selection-start-line="650" selection-start-column="20" selection-end-line="650" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/custom_bartik.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="650" column="20" selection-start-line="650" selection-start-column="20" selection-end-line="650" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/custom_bartik.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="650" column="20" selection-start-line="650" selection-start-column="20" selection-end-line="650" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bartik/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="179" column="22" selection-start-line="187" selection-start-column="28" selection-end-line="187" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/bartik/css/layout-rtl.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bartik/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bartik/css/layout-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -350,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.785714">
           <caret line="21" column="10" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -358,14 +892,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.0">
           <caret line="198" column="13" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21945702">
-          <caret line="633" column="1" selection-start-line="633" selection-start-column="1" selection-end-line="633" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="650" column="20" selection-start-line="650" selection-start-column="20" selection-end-line="650" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/custom_bartik/custom_bartik.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="322" column="12" selection-start-line="322" selection-start-column="12" selection-end-line="322" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/bootstrap.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2196" column="9" selection-start-line="2196" selection-start-column="9" selection-end-line="2196" selection-end-column="9" />
+          <folding>
+            <marker date="1445456860000" expanded="true" signature="27965:28030" placeholder="SELECT filen..." />
+            <marker date="1445456860000" expanded="true" signature="30635:30669" placeholder="SELECT name,..." />
+            <marker date="1445456860000" expanded="true" signature="65232:65274" placeholder="SELECT 1 FRO..." />
+            <marker date="1445456860000" expanded="true" signature="94671:94726" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/statistics/statistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/menu.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="553" column="14" selection-start-line="553" selection-start-column="14" selection-end-line="553" selection-end-column="14" />
+          <folding>
+            <marker date="1445456860000" expanded="true" signature="15799:15871" placeholder="SELECT * FRO..." />
+            <marker date="1445456860000" expanded="true" signature="110615:110660" placeholder="SELECT * FRO..." />
+            <marker date="1445456860000" expanded="true" signature="110741:110796" placeholder="SELECT * FRO..." />
+            <marker date="1445456860000" expanded="true" signature="111415:111463" placeholder="SELECT mlid ..." />
+            <marker date="1445456860000" expanded="true" signature="114129:114174" placeholder="SELECT * FRO..." />
+            <marker date="1445456860000" expanded="true" signature="120306:120351" placeholder="SELECT * FRO..." />
+            <marker date="1445456860000" expanded="true" signature="122330:122403" placeholder="SELECT menu_..." />
+            <marker date="1445456860000" expanded="true" signature="124511:124606" placeholder="SELECT * FRO..." />
+            <marker date="1445456860000" expanded="true" signature="132670:132759" placeholder="SELECT menu_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/custom/perm/perm.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.0">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/mobile_tools/mobile_tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29850745">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
